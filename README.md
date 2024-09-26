@@ -1,2 +1,2 @@
 # Blackjack-Beginner
-A simple console blackjack game in c++
+A simple console blackjack game with only one player
