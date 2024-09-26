@@ -5,4 +5,5 @@ using namespace std;
 // Entry point of the program
 int main() {
 
+    return 0;
 }
