@@ -5,4 +5,8 @@ class handP {
     char* cards;
     int cardAmount;
   public:
+    int getTotal();
+    int getAmount();
+    void addCard();
+    bool checkTotal();
     
